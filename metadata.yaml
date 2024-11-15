@@ -1,5 +1,8 @@
 _repo: A-dangerous-friend-b-or-Tom-s-three-months-in-London_74683
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leslie, Emma
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8498
     wikipedia: https://en.wikipedia.org/wiki/Emma_Leslie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74683#A-dangerous-friend-b-or-Tom-s-three-months-in-London
 gutenberg_issued: '2024-11-05'
 gutenberg_type: Text
 identifiers:
